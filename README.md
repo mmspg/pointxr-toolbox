@@ -1,4 +1,6 @@
 
+
+
 # PointXR toolbox
 
 
@@ -14,7 +16,7 @@ In particular, the toolbox consists of 4 different scenes that can operate indep
 Below, several screenshots of the same model selected loaded in the Rendering scene are illustrated, after applying different rendering configurations:
 
 ![alt text](/docs/screenshot.png)
-*The depicted model is selected from the PointXR dataset. The original version can be found in this [link](https://sketchfab.com/3d-models/hawaiian-tiki-3dscan-022f006c8ef647818d754195f02cb61f)
+*\*The depicted point cloud is selected from the **PointXR dataset** (original model source: [link](https://sketchfab.com/3d-models/hawaiian-tiki-3dscan-022f006c8ef647818d754195f02cb61f), creator: [Thomas Flynn](https://sketchfab.com/nebulousflynn), license: [CC Attribution](https://creativecommons.org/licenses/by/4.0/)).*
 
 
 ### Dependencies
