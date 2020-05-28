@@ -2,7 +2,7 @@
 # PointXR toolbox
 
 
-In this repository, we release the **PointXR toolbox**. A software that is built in Unity for rendering and visualization of 3D point clouds in virtual environments, as part of the [**PointXR**]([https://www.epfl.ch/labs/mmspg/downloads/pointxr/](https://www.epfl.ch/labs/mmspg/downloads/pointxr/)) [1]. The toolbox consists of a set of 3D Unity scenes, developed to: (a) adjust the visual appearance of point clouds by enabling different rendering configurations, and (b) host experiments under variants of interactive and passive evaluation protocols.
+In this repository, we release the **PointXR toolbox**. A software that is built in Unity for rendering and visualization of 3D point clouds in virtual environments, as part of the [**PointXR**]([https://www.epfl.ch/labs/mmspg/downloads/pointxr/]) [1]. The toolbox consists of a set of 3D Unity scenes, developed to: (a) adjust the visual appearance of point clouds by enabling different rendering configurations, and (b) host experiments under variants of interactive and passive evaluation protocols.
 
 In particular, the toolbox consists of 4 different scenes that can operate independently:
 
