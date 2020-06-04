@@ -1,6 +1,4 @@
 
-
-
 # PointXR toolbox
 
 
@@ -26,7 +24,7 @@ The [Pcx point cloud importer and renderer for Unity](https://github.com/keijiro
 
 ### System requirements
 
-The software is built and developed in Unity 2019.3. It has not been extensively tested with other Unity versions. In case you face issues with your current version, [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html) might come in handy.
+The software is built and developed in Unity 2019.3 on Windows 10. It has not been extensively tested with other Unity versions. In case you face issues with your current version, [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html) might come in handy.
 
 
 ### Application
