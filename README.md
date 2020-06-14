@@ -11,9 +11,10 @@ In particular, the toolbox consists of 4 different scenes that can operate indep
  3. Rating: Scene for configuration of the rating panel and the grading scale. The questions and answers that are shown to the observers can be specified.
  4. Capturing: Scene for producing videos using a virtual camera that captures the model from pre-defined paths (to be released soon).
 
-Below, several screenshots of the same model loaded in the Rendering scene are illustrated, after applying different rendering configurations:
+Below, several screenshots of the same model selected loaded in the Rendering scene are illustrated, after applying different rendering configurations:
 
 ![alt text](/docs/screenshot.png)
+*\*The depicted point cloud is selected from the **PointXR dataset** (original model source: [link](https://sketchfab.com/3d-models/hawaiian-tiki-3dscan-022f006c8ef647818d754195f02cb61f), creator: [Thomas Flynn](https://sketchfab.com/nebulousflynn), license: [CC Attribution](https://creativecommons.org/licenses/by/4.0/)).*
 
 
 ### Dependencies
@@ -23,7 +24,7 @@ The [Pcx point cloud importer and renderer for Unity](https://github.com/keijiro
 
 ### System requirements
 
-The software is built and developed in Unity 2019.3. It has not been extensively tested with other Unity versions. In case you face issues with your current version, [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html) might come in handy.
+The software is built and developed in Unity 2019.3 on Windows 10. It has not been extensively tested with other Unity versions. In case you face issues with your current version, [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html) might come in handy.
 
 
 ### Application
