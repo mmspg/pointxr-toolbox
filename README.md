@@ -11,10 +11,8 @@ In particular, the toolbox consists of 4 different scenes that can operate indep
  3. Rating: Scene for configuration of the rating panel and the grading scale. The questions and answers that are shown to the observers can be specified.
  4. Capturing: Scene for producing videos using a virtual camera that captures the model from pre-defined paths (to be released soon).
 
-Below, several screenshots of the same model selected loaded in the Rendering scene are illustrated, after applying different rendering configurations:
-
 ![alt text](/docs/screenshot.png)
-*\*The depicted point cloud is selected from the **PointXR dataset** (original model source: [link](https://sketchfab.com/3d-models/hawaiian-tiki-3dscan-022f006c8ef647818d754195f02cb61f), creator: [Thomas Flynn](https://sketchfab.com/nebulousflynn), license: [CC Attribution](https://creativecommons.org/licenses/by/4.0/)).*
+*\*Example of the toolbox scene for adjusting the rendering configurations of a model. The depicted point cloud is part of the [**PointXR dataset**](https://www.epfl.ch/labs/mmspg/downloads/pointxr/) (original model source: [link](https://sketchfab.com/3d-models/hawaiian-tiki-3dscan-022f006c8ef647818d754195f02cb61f), creator: [Thomas Flynn](https://sketchfab.com/nebulousflynn), license: [CC Attribution](https://creativecommons.org/licenses/by/4.0/)).*
 
 
 ### Dependencies
@@ -39,4 +37,4 @@ If you wish to use this software in your research, we kindly ask you to cite [1]
 
 ### References
 
-[1] E. Alexiou, N. Yang, and T. Ebrahimi, "[PointXR: A toolbox for visualization and subjective evaluation of point clouds in virtual reality](https://infoscience.epfl.ch/record/277378?ln=en)," 2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX), Athlone, 2020.
+[1] E. Alexiou, N. Yang, and T. Ebrahimi, "[PointXR: A toolbox for visualization and subjective evaluation of point clouds in virtual reality](https://infoscience.epfl.ch/record/277378)," *2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX)*, Athlone, 2020.
