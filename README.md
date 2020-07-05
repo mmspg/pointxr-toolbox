@@ -37,4 +37,4 @@ If you wish to use this software in your research, we kindly ask you to cite [1]
 
 ### References
 
-[1] E. Alexiou, N. Yang, and T. Ebrahimi, "[PointXR: A toolbox for visualization and subjective evaluation of point clouds in virtual reality](https://infoscience.epfl.ch/record/277378)," *2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX)*, Athlone, 2020.
+[1] E. Alexiou, N. Yang and T. Ebrahimi, "[PointXR: A Toolbox for Visualization and Subjective Evaluation of Point Clouds in Virtual Reality](https://infoscience.epfl.ch/record/277378)," *2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX)*, Athlone, Ireland, 2020, pp. 1-6. doi: [10.1109/QoMEX48832.2020.9123121](https://doi.org/10.1109/QoMEX48832.2020.9123121)
